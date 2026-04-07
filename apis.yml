@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Mobile Development
+  - Apps
   - Cross-Platform
   - Frontend
-  - Apps
+  - Mobile Development
 created: '2025-02-08'
 modified: '2026-03-16'
 url: >-
@@ -25,8 +25,8 @@ apis:
       applications and micro frontend experiences with cross-platform support.
     humanURL: https://ionic.io/docs
     tags:
-      - Mobile Development
       - Cross-Platform
+      - Mobile Development
     properties:
       - type: Documentation
         url: https://ionic.io/docs
