@@ -30,14 +30,14 @@ apis:
     properties:
       - type: Documentation
         url: https://ionic.io/docs
-      - type: Getting Started
+      - type: GettingStarted
         url: https://ionicframework.com/docs/intro/cli
 common:
   - type: Website
     url: https://ionic.io/
   - type: Documentation
     url: https://ionic.io/docs
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/ionic-team
   - type: Support
     url: https://ionic.io/support
