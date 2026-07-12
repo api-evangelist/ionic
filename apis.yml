@@ -33,6 +33,12 @@ apis:
       - type: GettingStarted
         url: https://ionicframework.com/docs/intro/cli
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ionic-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ionic-domain-security.yml
+  - url: https://ionic.io/blog/feed
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/drifty-co-
   - type: Website
