@@ -61,6 +61,12 @@ apis:
       - type: GettingStarted
         url: https://ionicframework.com/docs/intro/cli
 common:
+  - type: Plans
+    url: plans/ionic-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/ionic-rate-limits.yml
+  - type: FinOps
+    url: finops/ionic-finops.yml
   - type: VulnerabilityDisclosure
     url: security/ionic-vulnerability-disclosure.yml
   - type: DomainSecurity
